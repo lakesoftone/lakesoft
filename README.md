@@ -2,7 +2,7 @@
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
+Hola 
 
 So far we've got:
 
