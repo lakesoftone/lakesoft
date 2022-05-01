@@ -1,1 +1,3 @@
-# lakesoft
+layout: page
+title: "LakeSoftOne"
+permalink:
